@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#1c1c1c"/>
+  <!-- remera -->
+  <path d="M8 64c1-10 9-15 17-16h14c8 1 16 6 17 16z" fill="#e6e3ee"/>
+  <path d="M25 48c2 4 12 4 14 0" fill="none" stroke="#c9c5d6" stroke-width="2"/>
+  <!-- cuello -->
+  <path d="M26 41h12v8c-3 2-9 2-12 0z" fill="#b98463"/>
+  <!-- orejas -->
+  <ellipse cx="18.5" cy="30" rx="3" ry="4.5" fill="#c48f6d"/>
+  <ellipse cx="45.5" cy="30" rx="3" ry="4.5" fill="#c48f6d"/>
+  <!-- cara -->
+  <path d="M19 26c0-9 6-14 13-14s13 5 13 14v6c0 8-6 14-13 14s-13-6-13-14z" fill="#cf9b78"/>
+  <!-- barba -->
+  <path d="M19 31c1 3 3 4 5 4 2 4 5 5 8 5s6-1 8-5c2 0 4-1 5-4v2c0 8-6 13-13 13s-13-5-13-13z" fill="#3a2a22"/>
+  <path d="M26 36c2-1.5 4-2 6-1.4 2-.6 4-.1 6 1.4-2 .4-4 .6-6 .4-2 .2-4 0-6-.4z" fill="#3a2a22"/>
+  <!-- sonrisa -->
+  <path d="M27.5 38c2.6 2 6.4 2 9 0" fill="none" stroke="#f3e9e2" stroke-width="1.6" stroke-linecap="round"/>
+  <!-- cejas y ojos -->
+  <path d="M23 25.5c2-1.6 4.6-1.8 6.6-.8M34.4 24.7c2-1 4.6-.8 6.6.8" fill="none" stroke="#221713" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M24.5 29.5c1.2-1 3-1 4.2 0M35.3 29.5c1.2-1 3-1 4.2 0" fill="none" stroke="#221713" stroke-width="2" stroke-linecap="round"/>
+  <!-- pelo ondulado con volumen -->
+  <path d="M16.5 29c-3-6-2-13 2-17 1-3 5-6 9-6 2-2 6-2 9-1 3-1 7 0 9 3 4 2 6 6 5 11 1 3 0 7-2 10-1-4-2-7-5-9-2 1-5 1-7 0-3 1-6 1-9 0-3 1-5 0-7-1-2 2-3 5-4 10z" fill="#241913"/>
+  <path d="M24 9c2 2 6 2 8 0M33 8c2 2 6 2 8 1M19 15c2 1 4 1 6 0M40 14c2 0 4 1 5 3M28 14c2 1 5 1 7 0" fill="none" stroke="#3d2c21" stroke-width="1.4" stroke-linecap="round"/>
+</svg>
